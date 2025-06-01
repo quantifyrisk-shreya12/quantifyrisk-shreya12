@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Shreya 
 
-🎓 MSc Quantitative Finance @ University of Kiel | 💼 Ex-HSBC Data Scientist | 📊 Risk Analytics Enthusiast
+🎓 MSc Quantitative Finance @ University of Kiel | 💼 Ex-HSBC, Ex-MetLife Data Scientist | 📊 Risk Analytics Enthusiast
 
 ---
 
