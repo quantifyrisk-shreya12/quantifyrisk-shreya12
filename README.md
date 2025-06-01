@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to my GitHub! I'm a data scientist and aspiring risk advisor with a strong foundation in statistics, finance, and machine learning. My experience spans banking, insurance, and energy trading sectors, where I have built end-to-end solutions in **credit risk**, **fraud detection**, **semantic search**, and **trading dashboard automation**.
+Welcome to my GitHub! I'm a data scientist and aspiring risk advisor with a strong foundation in statistics, finance, and machine learning. My experience spans banking, insurance, and energy trading sectors, where I have built industry-level solutions in **credit risk**, **fraud detection**, **semantic search**, and **trading dashboard automation**.
 
 ---
 
